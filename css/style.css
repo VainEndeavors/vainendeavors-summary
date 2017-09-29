@@ -253,4 +253,8 @@ body {
   .name {
     font-size: 3.6em;
   }
+
+  .year {
+    padding: 0 0.5em;
+  }
 }
