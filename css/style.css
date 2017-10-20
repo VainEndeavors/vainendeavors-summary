@@ -308,7 +308,7 @@ body {
   }
 }
 
-@media all and (max-width: 440px) {
+@media all and (max-width: 450px) {
   body {
     font-size: 14px;
   }
